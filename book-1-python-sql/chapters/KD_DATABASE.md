@@ -17,7 +17,7 @@ CREATE TABLE `Metals`
 );
 ```
 
-Make sure you set up the foreign key constraints on the Orders table. You have to define the column, and separately define the foreign ke constraint.
+Make sure you set up the foreign key constraints on the Orders table. You have to define the column, and separately define the foreign key constraint.
 
 ```sql
 [metal_id] INTEGER NOT NULL,
