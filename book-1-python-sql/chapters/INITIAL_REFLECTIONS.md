@@ -52,7 +52,7 @@ These questions will be discussed during our interview, but we will not review t
 
 ### Data Structures
 
-1. Where do I create, modify, and access elements in a Python list?
+1. How do I create, modify, and access elements in a Python list?
 2. If I was asked in an interview to describe a dictionary, what would I say?
 3. Explain how to access and modify values based on keys in a dictionary.
 4. Explain the difference between an object and a dictionary in Python.
